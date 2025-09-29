@@ -2,7 +2,7 @@ Line	size
 d24a.bam	106
 d36a.bam	116
 d8a.bam	86
-i65a.bam	51
+i65a.bam	100
 i79a.bam	59
 i5a.bam	44
 i68a.bam	43
@@ -16,6 +16,6 @@ i94a.bam	48
 d16a.bam	91
 i87a.bam	55
 i25a.bam	60
-i88a.bam	56
+i88a.bam	75
 d38a.bam	106
 i71a.bam	60
