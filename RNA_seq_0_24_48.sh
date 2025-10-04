@@ -1,3 +1,10 @@
+apt install hisat2
+apt install samtools
+apt install stringtie
+apt install subread
+apt install gffread
+pip install pydeseq2
+
 hisat2-build assembly.fasta assembly
 
 for i in infect_0h_rep1 infect_0h_rep2 infect_0h_rep3 infect_24h_rep1 infect_24h_rep2 infect_24h_rep3 infect_48h_rep1 infect_48h_rep2 infect_48h_rep3;do
