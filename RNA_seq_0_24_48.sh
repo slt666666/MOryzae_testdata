@@ -1,4 +1,5 @@
 apt install hisat2
+apt install seqkit
 apt install samtools
 apt install stringtie
 apt install subread
