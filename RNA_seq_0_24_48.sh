@@ -18,3 +18,5 @@ done
 stringtie *.bam -o transcripts.gtf
 
 featureCounts -a transcripts.gtf -o counts.txt *.bam
+
+gffread transcripts.gtf -g assembly.fasta -w transcripts.fasta
